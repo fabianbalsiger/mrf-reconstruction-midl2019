@@ -102,8 +102,8 @@ Balsiger, F., Scheidegger, O., Carlier, P. G., Marty, B., & Reyes, M. (2019). On
   address = {London, United Kingdom},
   month = {08--10 Jul},
   publisher = {PMLR},
-  pdf = 	 {http://proceedings.mlr.press/v102/balsiger19a/balsiger19a.pdf},
-  url = 	 {http://proceedings.mlr.press/v102/balsiger19a.html},
+  pdf = {http://proceedings.mlr.press/v102/balsiger19a/balsiger19a.pdf},
+  url = {http://proceedings.mlr.press/v102/balsiger19a.html},
 }
 ```
 
