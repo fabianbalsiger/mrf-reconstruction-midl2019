@@ -1,5 +1,5 @@
 # On the Spatial and Temporal Influence for the Reconstruction of Magnetic Resonance Fingerprinting
-This repository contains code for the [MIDL 2019](https://2019.midl.io/) paper "On the Spatial and Temporal Influence for the Reconstruction of Magnetic Resonance Fingerprinting", which can be found at https://openreview.net/forum?id=HyeuSq9ke4.
+This repository contains code for the [MIDL 2019](https://2019.midl.io/) paper "On the Spatial and Temporal Influence for the Reconstruction of Magnetic Resonance Fingerprinting", which can be found at https://openreview.net/forum?id=HyeuSq9ke4. Note that there is now a [Medical Image Analysis](https://www.journals.elsevier.com/medical-image-analysis) journal article, extending the MIDL 2019 paper, available at https://doi.org/10.1016/j.media.2020.101741. Please use its accompanying code, available at https://github.com/fabianbalsiger/mrf-reconstruction-media2020, instead of this repository.
 
 
 ## Installation
