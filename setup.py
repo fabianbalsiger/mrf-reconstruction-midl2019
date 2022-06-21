@@ -13,7 +13,7 @@ with open(os.path.join('README.md'), encoding='utf-8') as f:
 REQUIRED_PACKAGES = [
     'tensorflow-gpu == 1.10.0',
     'matplotlib == 3.1.1',
-    'numpy == 1.14.5',
+    'numpy == 1.22.0',
     'pandas == 0.25.3',
     'plotly == 4.2.1',
     'SimpleITK == 1.2.3',
